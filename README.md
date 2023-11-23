@@ -4,7 +4,7 @@
 
 Welcome to the "Everything but Assembly" repository! If you've ever thought, "I want to learn everything about programming, except assembly," you're in the right place. This repository is your go-to resource for all things related to programming, excluding the mysterious world of COAL/x8086 Assembly Language.
 ## Tip: 
-The tiem it was written only God and I know how these programs work. Now only God knows how they work. 
+The time it was written only God and I know how these programs work. Now only God knows how they work. 
 
 ## What's Inside?
 
