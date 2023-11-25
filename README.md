@@ -38,6 +38,6 @@ Connect with fellow programmers, share your favorite programming languages, and 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT License](https://github.com/ahmedembeddedx/Everything_but_Assembly/blob/main/LICENSE) - see the [LICENSE.md](https://github.com/ahmedembeddedx/Everything_but_Assembly/blob/main/LICENSE) file for details.
 
 Happy coding, assembly-avoiders!
