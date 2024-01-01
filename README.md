@@ -1,5 +1,7 @@
 # Everything but Assembly
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ahmedembeddedx/Everything_but_Assembly/blob/main/LICENSE)
+
 ## Overview
 
 Welcome to the "Everything but Assembly" repository! If you've ever thought, "I want to learn everything about programming, except assembly," you're in the right place. This repository is your go-to resource for all things related to programming, excluding the mysterious world of COAL/x8086 Assembly Language.
